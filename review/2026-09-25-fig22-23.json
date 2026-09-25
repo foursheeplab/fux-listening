@@ -1,0 +1,295 @@
+{
+  "source": "1725 Latin printed p55, original clef crops compared with current engraved PNG and LilyPond pitch definitions",
+  "audio_checks": [
+    {
+      "file": "fig22_upper",
+      "note": 1,
+      "midi": 69,
+      "cents_error": -0.33
+    },
+    {
+      "file": "fig22_upper",
+      "note": 2,
+      "midi": 64,
+      "cents_error": -0.36
+    },
+    {
+      "file": "fig22_upper",
+      "note": 3,
+      "midi": 67,
+      "cents_error": 0.64
+    },
+    {
+      "file": "fig22_upper",
+      "note": 4,
+      "midi": 65,
+      "cents_error": 0.07
+    },
+    {
+      "file": "fig22_upper",
+      "note": 5,
+      "midi": 64,
+      "cents_error": -0.36
+    },
+    {
+      "file": "fig22_upper",
+      "note": 6,
+      "midi": 72,
+      "cents_error": -0.2
+    },
+    {
+      "file": "fig22_upper",
+      "note": 7,
+      "midi": 69,
+      "cents_error": -0.33
+    },
+    {
+      "file": "fig22_upper",
+      "note": 8,
+      "midi": 71,
+      "cents_error": -0.47
+    },
+    {
+      "file": "fig22_upper",
+      "note": 9,
+      "midi": 71,
+      "cents_error": -0.47
+    },
+    {
+      "file": "fig22_upper",
+      "note": 10,
+      "midi": 69,
+      "cents_error": -0.33
+    },
+    {
+      "file": "fig22_upper",
+      "note": 11,
+      "midi": 68,
+      "cents_error": -0.49
+    },
+    {
+      "file": "fig22_upper",
+      "note": 12,
+      "midi": 69,
+      "cents_error": -0.33
+    },
+    {
+      "file": "fig22_lower",
+      "note": 1,
+      "midi": 57,
+      "cents_error": 0.33
+    },
+    {
+      "file": "fig22_lower",
+      "note": 2,
+      "midi": 60,
+      "cents_error": -0.2
+    },
+    {
+      "file": "fig22_lower",
+      "note": 3,
+      "midi": 59,
+      "cents_error": 0.12
+    },
+    {
+      "file": "fig22_lower",
+      "note": 4,
+      "midi": 62,
+      "cents_error": -0.63
+    },
+    {
+      "file": "fig22_lower",
+      "note": 5,
+      "midi": 60,
+      "cents_error": -0.2
+    },
+    {
+      "file": "fig22_lower",
+      "note": 6,
+      "midi": 64,
+      "cents_error": -0.36
+    },
+    {
+      "file": "fig22_lower",
+      "note": 7,
+      "midi": 65,
+      "cents_error": -0.77
+    },
+    {
+      "file": "fig22_lower",
+      "note": 8,
+      "midi": 64,
+      "cents_error": -0.36
+    },
+    {
+      "file": "fig22_lower",
+      "note": 9,
+      "midi": 62,
+      "cents_error": -0.63
+    },
+    {
+      "file": "fig22_lower",
+      "note": 10,
+      "midi": 60,
+      "cents_error": -0.2
+    },
+    {
+      "file": "fig22_lower",
+      "note": 11,
+      "midi": 59,
+      "cents_error": 0.12
+    },
+    {
+      "file": "fig22_lower",
+      "note": 12,
+      "midi": 57,
+      "cents_error": 0.33
+    },
+    {
+      "file": "fig23_upper",
+      "note": 1,
+      "midi": 57,
+      "cents_error": 0.33
+    },
+    {
+      "file": "fig23_upper",
+      "note": 2,
+      "midi": 60,
+      "cents_error": -0.2
+    },
+    {
+      "file": "fig23_upper",
+      "note": 3,
+      "midi": 59,
+      "cents_error": 0.12
+    },
+    {
+      "file": "fig23_upper",
+      "note": 4,
+      "midi": 62,
+      "cents_error": -0.63
+    },
+    {
+      "file": "fig23_upper",
+      "note": 5,
+      "midi": 60,
+      "cents_error": -0.2
+    },
+    {
+      "file": "fig23_upper",
+      "note": 6,
+      "midi": 64,
+      "cents_error": -0.36
+    },
+    {
+      "file": "fig23_upper",
+      "note": 7,
+      "midi": 65,
+      "cents_error": -0.77
+    },
+    {
+      "file": "fig23_upper",
+      "note": 8,
+      "midi": 64,
+      "cents_error": -0.36
+    },
+    {
+      "file": "fig23_upper",
+      "note": 9,
+      "midi": 62,
+      "cents_error": -0.63
+    },
+    {
+      "file": "fig23_upper",
+      "note": 10,
+      "midi": 60,
+      "cents_error": -0.2
+    },
+    {
+      "file": "fig23_upper",
+      "note": 11,
+      "midi": 59,
+      "cents_error": 0.12
+    },
+    {
+      "file": "fig23_upper",
+      "note": 12,
+      "midi": 57,
+      "cents_error": 0.33
+    },
+    {
+      "file": "fig23_lower",
+      "note": 1,
+      "midi": 57,
+      "cents_error": 0.33
+    },
+    {
+      "file": "fig23_lower",
+      "note": 2,
+      "midi": 57,
+      "cents_error": -0.99
+    },
+    {
+      "file": "fig23_lower",
+      "note": 3,
+      "midi": 55,
+      "cents_error": -0.11
+    },
+    {
+      "file": "fig23_lower",
+      "note": 4,
+      "midi": 53,
+      "cents_error": 0.07
+    },
+    {
+      "file": "fig23_lower",
+      "note": 5,
+      "midi": 52,
+      "cents_error": -1.24
+    },
+    {
+      "file": "fig23_lower",
+      "note": 6,
+      "midi": 52,
+      "cents_error": 0.52
+    },
+    {
+      "file": "fig23_lower",
+      "note": 7,
+      "midi": 50,
+      "cents_error": 0.36
+    },
+    {
+      "file": "fig23_lower",
+      "note": 8,
+      "midi": 48,
+      "cents_error": 0.91
+    },
+    {
+      "file": "fig23_lower",
+      "note": 9,
+      "midi": 55,
+      "cents_error": -0.11
+    },
+    {
+      "file": "fig23_lower",
+      "note": 10,
+      "midi": 57,
+      "cents_error": -0.99
+    },
+    {
+      "file": "fig23_lower",
+      "note": 11,
+      "midi": 56,
+      "cents_error": -0.49
+    },
+    {
+      "file": "fig23_lower",
+      "note": 12,
+      "midi": 57,
+      "cents_error": 0.33
+    }
+  ],
+  "decode": "all six MP3 files passed",
+  "scope": "Website additions only; engraving and translation unchanged. This is not independent publication approval."
+}
